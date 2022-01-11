@@ -1,0 +1,231 @@
+Fiscal Year;Program;Nama Kegiatan;startDate;endDate;Segmen;Quarter;Total Peserta;Durasi /Jam;Govt;nonGovt
+2021;"GTP";"Work with Data in A Power Apps Canvas App ";2020-09-29 00:00:00,000;"29/09/2020";"HigherEd";"Q1";"128";3;0;128
+2021;"GTP";"Managing Documents Institution with SharePoint Online ";2020-09-30 00:00:00,000;"30/09/2020";"HigherEd";"Q1";"117";3;0;117
+2021;"MAU";"A Learning Platform for the New Normal ";2020-09-17 00:00:00,000;"17/09/2020";"HigherEd&K-12";"Q1";"68";1,5;0;68
+2021;"MAU";"Deploying Office in Education ";2020-09-18 00:00:00,000;"18/09/2020";"HigherEd&K-12";"Q1";"55";1,5;0;55
+2021;"MAU";"Microsoft K12 Education Transformation Framework";2020-09-24 00:00:00,000;"24/09/2020";"HigherEd&K-12";"Q1";"45";1,5;0;45
+2021;"MAU";"Creating a New Culture with Teams and Planner ";2020-09-25 00:00:00,000;"25/09/2020";"HigherEd&K-12";"Q1";"31";1,5;0;31
+2021;"MAU";"How to create outcomes through digital content and professional development";2020-09-29 00:00:00,000;"29/09/2020";"HigherEd&K-12";"Q1";"43";1,5;0;43
+2021;"MAU";"Managing Documents Corporate with SharePoint Online ";2020-09-30 00:00:00,000;"30/09/2020";"HigherEd&K-12";"Q1";"33";1,5;0;33
+2021;"AzureAI";"Batch 2 – Getting Started with AI on Azure";2020-12-07 00:00:00,000;"07/12/2020";"HigherEd";"Q2";"50";3;0;50
+2021;"AzureAI";"Batch 2 – No-Code Machine Learning and Natural Language Processing";2020-12-08 00:00:00,000;"08/12/2020";"HigherEd";"Q2";"8";3;0;8
+2021;"AzureAI";"Batch 2 – Exploring Computer Vision and Conversational AI ";2020-12-11 00:00:00,000;"11/12/2020";"HigherEd";"Q2";"26";3;0;26
+2021;"Edvision";"Remote Learning Method during COVID-19 ";2020-11-18 00:00:00,000;"18/11/2020";"HigherEd&K-12";"Q2";"35";3;0;35
+2021;"Edvision";"Core PowerPoint 2019";2020-12-02 00:00:00,000;"02/12/2020";"HigherEd&K-12";"Q2";"125";3;0;125
+2021;"Edvision";"Core Excel 2019";2020-12-10 00:00:00,000;"10/12/2020";"HigherEd&K-12";"Q2";"75";3;0;75
+2021;"GTP";"Microsoft 365 Overview";2020-11-23 00:00:00,000;"23/11/2020";"HigherEd";"Q2";"277";1;0;277
+2021;"GTPK12";"Pelatihan Pemanfaatan Office 365 dalam Pembelajaran (Aktivasi Akun Microsoft 365 dan Ekplor Microsoft Educator Center) ";2020-11-14 00:00:00,000;"14/11/2020";"K-12";"Q2";"105";3;0;105
+2021;"GTPK12";"Pelatihan Pemanfaatan Office 365 dalam Pembelajaran (OneDrive for Business dan Forms) ";2020-11-15 00:00:00,000;"15/11/2020";"K-12";"Q2";"90";2;0;90
+2021;"GTPK12";"Eksplorasi Microsoft Educator Center dan Microsoft Teams";2020-11-15 00:00:00,000;"15/11/2020";"K-12";"Q2";"85";2;0;85
+2021;"GTPK12";"Eksplorasi Microsoft Educator Center dan Microsoft Teams";2020-11-15 00:00:00,000;"15/11/2020";"K-12";"Q2";"89";2;0;89
+2021;"GTPK12";"Eksplorasi Microsoft Educator Center dan Microsoft Teams ";2020-11-15 00:00:00,000;"15/11/2020";"K-12";"Q2";"19";2;0;19
+2021;"GTPK12";"Pelatihan Office 365 – MEC dan Microsoft Teams ";2020-11-16 00:00:00,000;"16/11/2020";"K-12";"Q2";"17";2;0;17
+2021;"GTPK12";"Pelatihan Pemanfaatan Microsoft Teams untuk Mendukung Pembelajaran ";2020-11-16 00:00:00,000;"16/11/2020";"K-12";"Q2";"260";2;0;260
+2021;"GTPK12";"Pelatihan Office 365 – Sway dan OneDrive for Business ";2020-11-16 00:00:00,000;"16/11/2020";"K-12";"Q2";"123";2;0;123
+2021;"GTPK12";"Pelatihan Office 365 - Sway, OneNote Class Notebook, & Office Online ";2020-11-17 00:00:00,000;"17/11/2020";"K-12";"Q2";"25";2;0;25
+2021;"GTPK12";"Pelatihan Office 365 - Sway, Onenote Class Notebook dan Office Online";2020-11-17 00:00:00,000;"17/11/2020";"K-12";"Q2";"33";2;0;33
+2021;"GTPK12";"Pelatihan Office 365 - Sway, OneNote Class Notebook, dan OneDrive for Business ";2020-11-17 00:00:00,000;"17/11/2020";"K-12";"Q2";"23";2;0;23
+2021;"GTPK12";"Pemanfaatan Office 365 dalam Pembelajaran (Sway, OneNote, dan Office Online) ";2020-11-17 00:00:00,000;"17/11/2020";"K-12";"Q2";"57";2;0;57
+2021;"GTPK12";"Pelatihan Office 365 – Microsoft Teams dan Sway ";2020-11-17 00:00:00,000;"17/11/2020";"K-12";"Q2";"51";2;0;51
+2021;"GTPK12";"Pelatihan Office 365 - Microsoft Teams dan One Note Class NoteBook ";2020-11-17 00:00:00,000;"17/11/2020";"K-12";"Q2";"48";2;0;48
+2021;"GTPK12";"Pelatihan Microsoft 365 for Education (Sway, OneNote, dan Office Online) ";2020-11-18 00:00:00,000;"18/11/2020";"K-12";"Q2";"19";2;0;19
+2021;"GTPK12";"Pelatihan Office 365 untuk Pendidikan - Sway, OneNote Class Notebook, & Office Online ";2020-11-18 00:00:00,000;"18/11/2020";"K-12";"Q2";"28";2;0;28
+2021;"GTPK12";"STEMDEMIC with Microsoft 365 – Day1 ";2020-12-02 00:00:00,000;"02/12/2020";"K-12";"Q2";"180";2;0;180
+2021;"GTPK12";"STEMDEMIC with Microsoft 365 – Day2";2020-12-03 00:00:00,000;"03/12/2020";"K-12";"Q2";"135";2;0;135
+2021;"GTPK12";"STEMDEMIC with Microsoft 365 – Day3";2020-12-04 00:00:00,000;"04/12/2020";"K-12";"Q2";"127";2;0;127
+2021;"GTPK12";"STEMDEMIC with Microsoft 365 – Day4";2020-12-05 00:00:00,000;"05/12/2020";"K-12";"Q2";"116";2;0;116
+2021;"M365";"Microsoft 365 Administration Workshop ";2020-10-16 00:00:00,000;"16/10/2020";"K-12";"Q2";"21";3;0;21
+2021;"M365";"Microsoft Teams Administration Workshop";2020-10-20 00:00:00,000;"20/10/2020";"K-12";"Q2";"12";3;0;12
+2021;"M365";"Microsoft 365 Identity with Azure Active Directory ";2020-10-22 00:00:00,000;"22/10/2020";"K-12";"Q2";"11";3;0;11
+2021;"MAU";"How to Create Outcomes through Digital Content and Professional Development ";2020-10-06 00:00:00,000;"06/10/2020";"HigherEd&K-12";"Q2";"52";1,5;0;52
+2021;"MAU";"Azure for Higher Education ";2020-10-09 00:00:00,000;"09/10/2020";"HigherEd&K-12";"Q2";"33";1,5;0;33
+2021;"MAU";"Outcome Based Education Model Implementation with Microsoft 365 ";2020-10-13 00:00:00,000;"13/10/2020";"HigherEd&K-12";"Q2";"23";1,5;0;23
+2021;"MAU";"Enabling Microsoft 365 Workloads for Collaboration";2020-10-16 00:00:00,000;"16/10/2020";"HigherEd&K-12";"Q2";"12";1,5;0;12
+2021;"MAU";"Configuring Breakout Room in Teams ";2020-10-19 00:00:00,000;"19/10/2020";"HigherEd&K-12";"Q2";"3";1;0;3
+2021;"MAU";"BPK Penabur Discussion: Implementation and training of Microsoft 365 ";2020-11-12 00:00:00,000;"12/11/2020";"HigherEd&K-12";"Q2";"8";1;0;8
+2021;"MAU";"BPK Penabur Series: PowerShell Administration ";2020-11-16 00:00:00,000;"16/11/2020";"HigherEd&K-12";"Q2";"12";1;0;12
+2021;"MAU";"PowerShell Wokrshop Session 1 ";2020-11-23 00:00:00,000;"23/11/2020";"HigherEd&K-12";"Q2";"8";1;0;8
+2021;"MAU";"PowerShell Wokrshop Session 2";2020-11-23 00:00:00,000;"23/11/2020";"HigherEd&K-12";"Q2";"8";1;0;8
+2021;"MAU";"Introduction of Cloud Environment ";2020-12-17 00:00:00,000;"17/12/2020";"HigherEd&K-12";"Q2";"46";1;0;46
+2021;"MAU";"Introduction of Azure Resources ";2020-12-17 00:00:00,000;"17/12/2020";"HigherEd&K-12";"Q2";"46";1;0;46
+2021;"MAU";"Web Technology in The Cloud ";2020-12-17 00:00:00,000;"17/12/2020";"HigherEd&K-12";"Q2";"46";1;0;46
+2021;"MAU";"Web Deployment Through Visual Studio ";2020-12-18 00:00:00,000;"18/12/2020";"HigherEd&K-12";"Q2";"30";1;0;30
+2021;"MAU";"ASP.NET Core Project Structure and Concept of Staging and Scaling on The Cloud ";2020-12-18 00:00:00,000;"18/12/2020";"HigherEd&K-12";"Q2";"30";1;0;30
+2021;"MAU";"Staging and Scaling Web Application Process in App Service ";2020-12-18 00:00:00,000;"18/12/2020";"HigherEd&K-12";"Q2";"30";1;0;30
+2021;"MAU";"Microsoft 365 Administration Workshop ";2020-12-18 00:00:00,000;"18/12/2020";"HigherEd&K-12";"Q2";"13";1;0;13
+2021;"MAU";"Microsoft 365 Enterprise and Security Administration and EFO App";2020-12-18 00:00:00,000;"18/12/2020";"HigherEd&K-12";"Q2";"13";1;0;13
+2021;"MAU";"Web Architecture Framework on The Cloud ";2020-12-22 00:00:00,000;"22/12/2020";"HigherEd&K-12";"Q2";"16";1;0;16
+2021;"MAU";"Pilar-pilar Azure WAF Part II";2020-12-22 00:00:00,000;"22/12/2020";"HigherEd&K-12";"Q2";"16";1;0;16
+2021;"MAU";"Resources Security on Azure ";2020-12-22 00:00:00,000;"22/12/2020";"HigherEd&K-12";"Q2";"16";1;0;16
+2021;"GTP";"Creating An App Solution for Higher Ed Institution with Power Platforms ";2021-03-04 00:00:00,000;"04/03/2021";"HigherEd";"Q3";"71";3;0;71
+2021;"GTP";"Creating and Publishing a Chatbot with Power Virtual Agents​ ";2021-03-19 00:00:00,000;"19/03/2021";"HigherEd";"Q3";"226";3;0;226
+2021;"Edvision";"STEM Education with Microsoft 365 1";2021-02-16 00:00:00,000;"16/02/2021";"HigherEd&K-12";"Q3";"212";3;0;212
+2021;"Edvision";"STEM Education with Microsoft 365 2";2021-03-03 00:00:00,000;"03/03/2021";"HigherEd&K-12";"Q3";"154";3;0;154
+2021;"Edvision";"STEM Education with Microsoft 365 3";2021-03-17 00:00:00,000;"17/03/2021";"HigherEd&K-12";"Q3";"137";3;0;137
+2021;"Edvision";"Road to MIEE: Microsoft Forms Creating Authentic Assessments ";2021-06-16 00:00:00,000;"16/06/2021";"K-12";"Q4";"56";3;0;56
+2021;"Edvision";"Road to MIEE: Keeping students engaged: Building strong student/teacher connections in a remote learning";2021-06-25 00:00:00,000;"25/06/2021";"K-12";"Q4";"153";3;0;153
+2021;"MerdekaBelajar";"Session 1: Introduction to Azure and Microsoft Learn for Education ";2021-06-17 00:00:00,000;"17/06/2021";"HigherEd";"Q4";"36";1,5;0;36
+2021;"MerdekaBelajar";"Session 2: Introduction to Azure and Microsoft Learn for Education ";2021-06-18 00:00:00,000;"18/06/2021";"HigherEd";"Q4";"29";1,5;0;29
+2021;"MerdekaBelajar";"Session 3: Introduction to Azure and Microsoft Learn for Education ";2021-06-22 00:00:00,000;"22/06/2021";"HigherEd";"Q4";"21";1,5;0;21
+2021;"MerdekaBelajar";"Session 4: Introduction to Azure and Microsoft Learn for Education ";2021-06-28 00:00:00,000;"28/06/2021";"HigherEd";"Q4";"63";1,5;0;63
+2021;"TeamsCoaching";"Week 1 – Program Onboarding";2021-10-27 00:00:00,000;"27/10/2021";"HigherEd";"Q2";"4";1;0;4
+2021;"TeamsCoaching";"Week 2 – Plan and Prepare";2021-11-02 00:00:00,000;"02/11/2021";"HigherEd";"Q2";"5";2;0;5
+2021;"TeamsCoaching";"Week 3 – Pilot and Test";2021-11-11 00:00:00,000;"11/11/2021";"HigherEd";"Q2";"4";3;0;4
+2021;"TeamsCoaching";"Week 4 – Teacher Enablement";2021-11-16 00:00:00,000;"16/11/2021";"HigherEd";"Q2";"7";3;0;7
+2021;"TeamsCoaching";"Week 5 – Student Teacher Adoption";2021-11-17 00:00:00,000;"17/11/2021";"HigherEd";"Q2";"7";1,5;0;7
+2021;"TeamsCoaching";"Week 6 – Program Graduation and Capstone Presentation";2021-11-27 00:00:00,000;"27/11/2021";"HigherEd";"Q2";"4";1;0;4
+2021;"MicroCredentials";"ToT Micro-Credentials Offers for Merdeka Belajar: Telkom University ";2021-03-24 00:00:00,000;"24/03/2021";"HigherEd";"Q3";"37";2;0;37
+2021;"MicroCredentials";"ToT Micro-Credentials Offers for Merdeka Belajar: Universitas Pelita Harapan";2021-03-26 00:00:00,000;"26/03/2021";"HigherEd";"Q3";"74";2;0;74
+2021;"MicroCredentials";"ToT Micro-Credentials Offers for Merdeka Belajar: Binus University ";2021-03-30 00:00:00,000;"30/03/2021";"HigherEd";"Q3";"36";2;0;36
+2021;"Minecraft";"Building Interactive Learning for Elementary School Students with Minecraft: Education Edition";2021-03-22 00:00:00,000;"22/03/2021";"K-12";"Q3";"209";3;0;209
+2021;"Minecraft";"Explore and Review the History of Prambanan Temple with Minecraft Education: Edition ";2021-03-23 00:00:00,000;"23/03/2021";"K-12";"Q3";"235";3;0;235
+2021;"Minecraft";"Learn and Play at the National Monument with Minecraft Education Edition";2021-03-24 00:00:00,000;"24/03/2021";"K-12";"Q3";"123";3;0;123
+2021;"MicroCredentials";"Batch 1 - Micro-Credentials Offers: Data and AI Track ";2021-04-26 00:00:00,000;"26/04/2021";"HigherEd";"Q4";"45";2;0;45
+2021;"MicroCredentials";"Batch 1 - Micro-Credentials Offers: Cloud Computing Track ";2021-04-26 00:00:00,000;"26/04/2021";"HigherEd";"Q4";"80";2;0;80
+2021;"MicroCredentials";"Batch 1 - Micro-Credentials Offers: Productivity Track ";2021-04-27 00:00:00,000;"27/04/2021";"HigherEd";"Q4";"39";2;0;39
+2021;"MicroCredentials";"Batch 2 - Micro-Credentials Offers: Data and AI Track ";2021-04-27 00:00:00,000;"27/04/2021";"HigherEd";"Q4";"80";2;0;80
+2021;"MicroCredentials";"Batch 2 - Micro-Credentials Offers: Cloud Computing Track ";2021-04-28 00:00:00,000;"28/04/2021";"HigherEd";"Q4";"33";2;0;33
+2021;"MicroCredentials";"Batch 2 - Micro-Credentials Offers: Productivity Track ";2021-04-28 00:00:00,000;"28/04/2021";"HigherEd";"Q4";"67";2;0;67
+2021;"MicroCredentials";"Batch 3 - Micro-Credentials Offers: Data and AI Track ";2021-04-29 00:00:00,000;"29/04/2021";"HigherEd";"Q4";"53";2;0;53
+2021;"MicroCredentials";"Batch 3 - Micro-Credentials Offers: Cloud Computing Track ";2021-04-29 00:00:00,000;"29/04/2021";"HigherEd";"Q4";"75";2;0;75
+2021;"MicroCredentials";"Batch 3 - Micro-Credentials Offers: Productivity Track ";2021-04-30 00:00:00,000;"30/04/2021";"HigherEd";"Q4";"47";2;0;47
+2021;"Minecraft";"Introducing the Joglo House as a Landmark of Indonesia with Minecraft: Education Edition ";2021-04-16 00:00:00,000;"16/04/2021";"K-12";"Q4";"84";3;0;84
+2021;"Minecraft";" Building a Chemistry Laboratory in the form of Dalam Loka House using Minecraft: Education Edition ";2021-04-21 00:00:00,000;"21/04/2021";"K-12";"Q4";"85";3;0;85
+2021;"Minecraft";"Introduction of Jam Gadang and Psychics Lesson with Minecraft: Education Edition";2021-04-27 00:00:00,000;"27/04/2021";"K-12";"Q4";"48";3;0;48
+2021;"Minecraft";"Innovation of Mathematics Learning with Minecraft: Education Edition – The Jogja Kembali Monument and Mathematics ";2021-05-21 00:00:00,000;"21/05/2021";"K-12";"Q4";"87";3;0;87
+2021;"Minecraft";"Introducing the Framework for Practice of State Government Administration at the Bala Puti Palace in Sumbawa with Minecraft: Education Edition ";2021-05-24 00:00:00,000;"24/05/2021";"K-12";"Q4";"50";3;0;50
+2021;"Minecraft";"Building and Exploring the Simpang Lima Monument Kediri with Minecraft: Education Edition";2021-05-28 00:00:00,000;"28/05/2021";"K-12";"Q4";"31";3;0;31
+2021;"ShowcaseSchool";"Showcase Schools – Session 1: SD Al Azhar 31 Yogyakarta ";2021-06-03 00:00:00,000;"03/06/2021";"K-12";"Q4";"24";3;0;24
+2021;"ShowcaseSchool";"Showcase Schools – Session 1: SMAK BPK Penabur Bandarlampung ";2021-06-09 00:00:00,000;"09/06/2021";"K-12";"Q4";"20";3;0;20
+2021;"ShowcaseSchool";"Showcase Schools – Session 1: SMPK BPK Penabur Cimahi";2021-06-14 00:00:00,000;"14/06/2021";"K-12";"Q4";"15";3;0;15
+2021;"ShowcaseSchool";"Showcase Schools – Session 2: SMPK BPK Penabur Cimahi ";2021-04-20 00:00:00,000;"20/04/2021";"K-12";"Q4";"15";3;0;15
+2021;"ShowcaseSchool";"Showcase Schools – Session 2: SD Al Azhar 31 Yogyakarta ";2021-06-15 00:00:00,000;"15/06/2021";"K-12";"Q4";"28";3;0;28
+2021;"ShowcaseSchool";"Showcase Schools – Session 3: SD Al Azhar 31 Yogyakarta";2021-06-18 00:00:00,000;"18/06/2021";"K-12";"Q4";"25";3;0;25
+2021;"ShowcaseSchool";"Showcase Schools – Session 2: SMAK BPK Penabur Bandarlampung";2021-06-24 00:00:00,000;"24/06/2021";"K-12";"Q4";"26";3;0;26
+2021;"PremiumTraining";"Pelatihan Power BI Vads";2021-04-01 00:00:00,000;"01/04/2021";"Corporate";"Q4";"15";24;0;15
+2021;"PremiumTraining";"Pelatihan Power BI Unilever";2021-06-15 00:00:00,000;"15/06/2021";"Corporate";"Q4";"3";15;0;3
+2020;"M365";"Workshop Microsoft 365 - Word for Academic Research ";2019-08-22 00:00:00,000;"22/08/2019";"HigherEd";"Q1 ";"42 ";;;
+2020;"TeamsCoaching";"Membangun Kelas Virtual pada Pembelajaran Abad 21 dengan Microsoft Teams ";2019-08-30 00:00:00,000;"30/08/2019";"K-12";"Q1 ";"44 ";;;
+2020;"M365";"FunFest - Microsoft 365: Mengenal Microsoft 365 sebagai Fasilitas Universitas ";2019-09-03 00:00:00,000;"03/09/2019";"HigherEd";"Q1 ";"269 ";;;
+2020;"M365";"Seminar - Microsoft 365 for Improving Productivity ";2019-09-04 00:00:00,000;"04/09/2019";"HigherEd";"Q1 ";"49 ";;;
+2020;"TeamsCoaching";"Membangun Ruang Kelas Belajar Virtual dengan Teams ";2019-09-24 00:00:00,000;"24/09/2019";"K-12";"Q1 ";"46 ";;;
+2020;"TeamsCoaching";"Online activity photo– Menginspirasi Negeri ";2019-08-14 00:00:00,000;"20/09/2019";"K-12";"Q1 ";"31 ";;;
+2020;".NET Conf ";".NET Conf 2019 ";2019-10-15 00:00:00,000;"15/10/2019";"HigherEd&Profesional";"Q2 ";"42 ";;;
+2020;"M365";"Optimizing Microsoft 365 for College Student ";2019-10-28 00:00:00,000;"28/10/2019";"HigherEd";"Q2 ";"49 ";;;
+2020;"TeamsCoaching";"Sway sebagai Media Pembelajaran di Kelas Virtual – Microsoft Teams ";2019-11-11 00:00:00,000;"11/11/2019";"HigherEd";"Q2 ";"36 ";;;
+2020;"M365";"Global Microsoft 365 Developer Bootcamp 2019 ";2019-11-15 00:00:00,000;"15/11/2019";"HigherEd&Profesional";"Q2 ";"21 ";;;
+2020;"M365";"Managing Lecture Notes Digitally with OneNote ";2019-11-22 00:00:00,000;"22/11/2019";"HigherEd";"Q2 ";"22 ";;;
+2020;"M365";"Building Virtual Classroom with Teams ";2019-11-25 00:00:00,000;"25/11/2019";"HigherEd";"Q2 ";"55 ";;;
+2020;"TeamsCoaching";"PowerPoint sebagai Media Bahan Ajar Digital di Kelas Virtual ";2019-12-17 00:00:00,000;"17/12/2019";"K-12";"Q2 ";"44 ";;;
+2020;"TeamsCoaching";"PowerPoint sebagai Media Bahan Ajar Digital di Kelas Virtual ";2019-12-31 00:00:00,000;"31/12/2019";"K-12";"Q2 ";"40 ";;;
+2020;"M365";"Building The Integrated Virtual Classroom with Teams and Moodle ";2020-01-16 00:00:00,000;"16/01/2020";"HigherEd";"Q3 ";"47 ";;;
+2020;"M365";"Creating and Managing a Document Academic using Office 365 ";2020-03-19 00:00:00,000;"19/03/2020";"HigherEd";"Q3 ";"76 ";;;
+2020;"M365";"Creating and Managing a Document Academic using Office 365 ";2020-03-21 00:00:00,000;"21/03/2020";"HigherEd";"Q3 ";"75 ";;;
+2020;"MAU";"Project Collaboration using Teams and Planner ";2020-02-12 00:00:00,000;"12/02/2020";"K-12";"Q3 ";"37 ";;;
+2020;"MAU";"How to Create a Multimedia Learning Object with Various Tools ";2020-03-19 00:00:00,000;"19/03/2020";"HigherEd&K-12";"Q3 ";"45 ";;;
+2020;"MAU";"Save Classroom Time tools for planning, assignments ";2020-01-24 00:00:00,000;"24/01/2020";"K-12";"Q3 ";"32 ";;;
+2020;"MAU";"OneNote Class Notebook Sebagai Media Pendukung Pembelajaran ";2020-02-14 00:00:00,000;"14/02/2020";"K-12";"Q3 ";"83 ";;;
+2020;"MAU";"Mengembangkan Kemampuan Digital Storytelling Siswa dengan Sway ";2020-03-06 00:00:00,000;"06/03/2020";"K-12";"Q3 ";"23 ";;;
+2020;"TeamsCoaching";"Monitoring Progres Pelatihan Guru di Indonesia Menggunakan Microsoft Teams ";2020-01-21 00:00:00,000;"22/01/2020";"K-12";"Q3 ";"38/37 ";;;
+2020;"TeamsCoaching";"Pengolahan dan pengelolaan Data menggunakan Excel dan SharePoint Online  di Microsoft Teams ";2019-01-28 00:00:00,000;"28/01/2019";"K-12";"Q3 ";"38 ";;;
+2020;"TeamsCoaching";"Training of Trainer – PowerPoint sebagai Bahan Ajar Digital di Kelas Virtual Microsoft Teams ";2020-02-11 00:00:00,000;"11/02/2020";"K-12";"Q3 ";"40 ";;;
+2020;"M365";"File Management with OneDrive for Business and SharePoint Online ";2020-05-08 00:00:00,000;"08/05/2020";"HigherEd";"Q4 ";"73 ";;;
+2020;"M365";"Keeping Student Engaged with Office 365 ";2020-05-18 00:00:00,000;"18/05/2020";"K-12";"Q4 ";"54 ";;;
+2020;"M365";"Building Collaboration Environment with Teams and Planner ";2020-05-19 00:00:00,000;"19/05/2020";"HigherEd";"Q4 ";"31 ";;;
+2020;"M365";"Increasing Learning Engagement with Video Learning ";2020-04-09 00:00:00,000;"09/04/2020";"K-12";"Q4 ";"22 ";;;
+2020;"M365";"Build Asynchronous Learning with OneNote Class Notebook ";2020-05-20 00:00:00,000;"20/05/2020";"K-12";"Q4 ";"134 ";;;
+2020;"TeamsCoaching";"Stay Productive in One Place - Teams ";2020-04-16 00:00:00,000;"16/04/2020";"K-12";"Q4 ";"39 ";;;
+2020;"TeamsCoaching";"Seminar, Pembimbingan dan Koordinasi Penelitian dengan Microsoft Teams  ";2020-04-21 00:00:00,000;"21/04/2020";"HigherEd";"Q4 ";"22 ";;;
+2020;"TeamsCoaching";"Building Asynchronous and Synchronous Virtual Classroom ";2020-04-28 00:00:00,000;"28/04/2020";"K-12";"Q4 ";"79 ";;;
+2020;"Minecraft";"Belajar Bahasa dengan Minecraft: Education Edition ";2020-06-19 00:00:00,000;"19/06/2020";"K-12";"Q4 ";"233 ";;;
+2020;"Minecraft";"Belajar dan Praktik Sains dengan Minecraft: Education Edition ";2020-06-23 00:00:00,000;"23/06/2020";"K-12";"Q4 ";"155 ";;;
+2020;"Minecraft";"Mengajarkan Budaya Daerah dengan Minecraft: Education Edition ";2020-06-25 00:00:00,000;"25/06/2020";"K-12";"Q4 ";"83 ";;;
+2020;"GTP ";"Project Collaboration using Teams and Planner ";2020-04-22 00:00:00,000;"22/04/2020";"HigherEd";"Q4 ";"169 ";;;
+2020;"GTP ";"7 Tips to Make Accessible Learning ";2020-04-22 00:00:00,000;"22/04/2020";"K-12";"Q4 ";"153 ";;;
+2020;"GTP ";"Building Virtual Classroom for Effective Learning in The Middle of Pandemic ";2020-04-23 00:00:00,000;"23/04/2020";"K-12";"Q4 ";"132 ";;;
+2020;"GTP ";"Increasing Learner Engagement with Video Learning ";2020-04-23 00:00:00,000;"23/04/2020";"K-12";"Q4 ";"120 ";;;
+2020;"GTP ";"Getting Organized with OneNote Online ";2020-04-27 00:00:00,000;"27/04/2020";"K-12";"Q4 ";"134 ";;;
+2020;"GTP ";"Build Inclusive Learning Environment with Office 365 ";2020-04-27 00:00:00,000;"27/04/2020";"K-12";"Q4 ";"152 ";;;
+2020;"GTP ";"Becoming productive in grading by adopting outcome based assessment with Microsoft Forms ";2020-05-20 00:00:00,000;"20/05/2020";"HigherEd";"Q4 ";"86 ";;;
+2020;"GTP ";"Connected with Students using Remote Learning Scheme with Microsoft Teams and Office 365 ";2020-05-22 00:00:00,000;"22/05/2020";"K-12";"Q4 ";"76 ";;;
+2020;"GTP ";"Creating Video Learning using PowerPoint Recorder and Game bar ";2020-05-27 00:00:00,000;"27/05/2020";"K-12";"Q4 ";"169 ";;;
+2020;"GTP ";"Creating Interactive Learning with OneNote Class Notebook ";2020-05-29 00:00:00,000;"29/05/2020";"HigherEd";"Q4 ";"73 ";;;
+2020;"GTP ";"Assessment Model in The Virtual Classroom ";2020-06-02 00:00:00,000;"02/06/2020";"HigherEd";"Q4 ";"163 ";;;
+2020;"GTP ";"8 Tips For Getting The Right Blend In Blended Learning ";2020-06-02 00:00:00,000;"02/06/2020";"K-12";"Q4 ";"147 ";;;
+2020;"GTP ";"Pengenalan Microsoft Educator Community dan Microsoft Teams ";2020-06-02 00:00:00,000;"02/06/2020";"K-12";"Q4 ";"168 ";;;
+2020;"GTP ";"Redefining PowerPoint in the College Classroom ";2020-06-03 00:00:00,000;"03/06/2020";"HigherEd";"Q4 ";"142 ";;;
+2020;"GTP ";"5 Tips for Digital Transformation of Learning ";2020-06-03 00:00:00,000;"03/06/2020";"K-12";"Q4 ";"139 ";;;
+2020;"GTP ";"Survei dan Ujian Menggunakan Microsoft Forms dan Berbagi file di OneDrive ";2020-06-03 00:00:00,000;"03/06/2020";"K-12";"Q4 ";"150 ";;;
+2020;"GTP ";"Creating Interactive Learning with OneNote Class Notebook ";2020-06-04 00:00:00,000;"04/06/2020";"K-12";"Q3 ";"189 ";;;
+2020;"GTP ";"Becoming productive in grading by adopting outcome based assessment with Microsoft Forms   ";2020-06-04 00:00:00,000;"04/06/2020";"K-12";"Q4 ";"189 ";;;
+2020;"GTP ";"Digital Storytelling with Microsoft Sway, Class notebook (OneNote) dan Berkolaborasi dengan Office Online";2020-06-04 00:00:00,000;"04/06/2020";"HigherEd";"Q4 ";"367 ";;;
+2020;"GTP ";"Integrating Flipgrid in Teams for More Interactive Learning ";2020-06-05 00:00:00,000;"05/06/2020";"K-12";"Q4 ";"180 ";;;
+2020;"GTP ";"Organizing Lesson Plans and Delivering Interactive Lesson with OneNote Class Notebook ";2020-06-05 00:00:00,000;"05/06/2020";"HigherEd";"Q4 ";"174 ";;;
+2020;"GTP ";"Office 365 Deployment ";2020-06-05 00:00:00,000;"05/06/2020";"HigherEd&K-12";"Q4 ";"382 ";;;
+2020;"GTP ";"Building Virtual Classroom for Effective Learning in The Middle of Pandemic ";2020-06-08 00:00:00,000;"08/06/2020";"K-12";"Q4 ";"58 ";;;
+2020;"GTP ";"Assessment Model in The Virtual Classroom  ";2020-06-08 00:00:00,000;"08/06/2020";"K-12";"Q4 ";"18 ";;;
+2020;"GTP ";"Improving Productivity with Office 365 ";2020-06-09 00:00:00,000;"09/06/2020";"HigherEd";"Q4 ";"11 ";;;
+2020;"GTP ";"Redefining PowerPoint in the College Classroom ";2020-06-10 00:00:00,000;"10/06/2020";"HigherEd";"Q4 ";"26 ";;;
+2020;"GTP ";"Creating Interactive Learning with OneNote Class Notebook ";2020-06-10 00:00:00,000;"10/06/2020";"K-12";"Q4 ";"6 ";;;
+2020;"GTP ";"Managing Document using OneDrive for Business and SharePoint Online ";2020-06-12 00:00:00,000;"12/06/2020";"HigherEd";"Q4 ";"19 ";;;
+2020;"GTP ";"Increasing Learner Engagement with Video Learning ";2020-06-12 00:00:00,000;"12/06/2020";"K-12";"Q4 ";"7 ";;;
+2020;"GTP ";"Project Collaboration using Teams and Planner ";2020-06-16 00:00:00,000;"16/06/2020";"HigherEd";"Q4 ";"268 ";;;
+2020;"GTP ";"Build Asynchronous Learning with OneNote Class Notebook ";2020-06-16 00:00:00,000;"16/06/2020";"K-12";"Q4 ";"133 ";;;
+2020;"GTP ";"Building Virtual Classroom for Effective Learning in The Middle of Pandemic ";2020-06-18 00:00:00,000;"18/06/2020";"K-12";"Q4 ";"143 ";;;
+2020;"GTP ";"Increasing Learner Engagement with Video Learning ";2020-06-18 00:00:00,000;"18/06/2020";"K-12";"Q4 ";"74 ";;;
+2020;"GTP ";"Creating A Virtual Classroom with Microsoft Teams ";2020-06-19 00:00:00,000;"19/06/2020";"HigherEd";"Q4 ";"18 ";;;
+2020;"GTP ";"Managing Document using OneDrive for Business and SharePoint Online ";2020-06-29 00:00:00,000;"29/06/2020";"HigherEd";"Q4 ";"129 ";;;
+2020;"GTP ";"Video Editing and Photo Editing with Windows  ";2020-06-29 00:00:00,000;"29/06/2020";"K-12";"Q4 ";"105 ";;;
+2020;"GTP ";"Virtual Classroom Management with Microsoft Teams ";2020-06-30 00:00:00,000;"30/06/2020";"K-12";"Q4 ";"44 ";;;
+2020;"GTP ";"Microsoft Edge for Education ";2020-06-30 00:00:00,000;"30/06/2020";"K-12";"Q4 ";"13 ";;;
+2020;"GTP ";"Office 365 for Research ";2020-06-30 00:00:00,000;"30/06/2020";"HigherEd";"Q4 ";"31 ";;;
+2020;"GTP ";"Improving Productivity with Office 365 ";2020-06-30 00:00:00,000;"30/06/2020";"HigherEd";"Q4 ";"77 ";;;
+2021;"AzureHigherEd";"Azure Fundamental for Higher Ed ";2020-09-15 00:00:00,000;"15/09/2020";"HigherEd";"Q1";"22";4;12;10
+2021;"AzureHigherEd";"Designing Azure for Academic Infrastructure ";2020-09-22 00:00:00,000;"22/09/2020";"HigherEd";"Q1";"53";4;22;31
+2021;"AzureHigherEd";"Designing Virtual Labs with Azure";2020-09-28 00:00:00,000;"28/09/2020";"HigherEd";"Q1";"31";4;18;13
+2021;"GTP";"Creating A Virtual Classroom using Microsoft Teams ";2020-09-04 00:00:00,000;"04/09/2020";"HigherEd";"Q1";"96";3;96;0
+2021;"GTP";"Creating Smart Classroom with Microsoft 365 ";2020-09-28 00:00:00,000;"28/09/2020";"HigherEd";"Q1";"39";6;39;0
+2021;"AzureAI";"Batch 1 - Getting Started with AI on Azure";2020-11-30 00:00:00,000;"30/11/2020";"HigherEd";"Q2";"79";3;79;0
+2021;"AzureAI";"Batch 1 - No-Code Machine Learning and Natural Language";2020-12-01 00:00:00,000;"01/12/2020";"HigherEd";"Q2";"56";3;56;0
+2021;"AzureAI";"Batch 1 - Exploring Computer Vision and Conversational AI";2020-12-04 00:00:00,000;"04/12/2020";"HigherEd";"Q2";"39";3;39;0
+2021;"AzureAI";"Batch 3 – Getting Started with AI on Azure ";2020-12-14 00:00:00,000;"14/12/2020";"HigherEd";"Q2";"87";3;87;0
+2021;"AzureAI";"Batch 3 – No-Code Machine Learning and Natural Language Processing ";2020-12-15 00:00:00,000;"15/12/2020";"HigherEd";"Q2";"41";3;41;0
+2021;"AzureAI";"Batch 3 – Exploring Computer Vision and Conversational AI ";2020-12-18 00:00:00,000;"18/12/2020";"HigherEd";"Q2";"23";3;23;0
+2021;"GTP";"Improving Productivity in Higher Ed with Office 365 ";2020-10-05 00:00:00,000;"05/10/2020";"HigherEd";"Q2";"63";3;63;0
+2021;"GTP";"Remote Learning Method During COVID-19 with Microsoft Teams ";2020-10-12 00:00:00,000;"12/10/2020";"HigherEd";"Q2";"47";3;47;0
+2021;"GTP";"Microsoft Teams for Education Essentials ";2020-10-14 00:00:00,000;"14/10/2020";"HigherEd";"Q2";"9";3;9;0
+2021;"GTP";"Microsoft Teams Education for Advanced ";2020-10-15 00:00:00,000;"15/10/2020";"HigherEd";"Q2";"9";3;9;0
+2021;"GTP";"OneNote and Class Notebook for Higher Ed ";2020-10-19 00:00:00,000;"19/10/2020";"HigherEd";"Q2";"36";3;36;0
+2021;"GTP";"Microsoft Teams for Education Essentials ";2020-11-12 00:00:00,000;"12/11/2020";"HigherEd";"Q2";"67";3;67;0
+2021;"GTP";"Microsoft Teams for Education Advanced";2020-11-19 00:00:00,000;"19/11/2020";"HigherEd";"Q2";"55";3;55;0
+2021;"GTP";"Microsoft Teams for Education Essentials";2020-11-24 00:00:00,000;"24/11/2020";"HigherEd";"Q2";"58";3;58;0
+2021;"GTP";"Microsoft Teams for Education Advanced ";2020-11-25 00:00:00,000;"25/11/2020";"HigherEd";"Q2";"41";3;41;0
+2021;"GTP";"Outcome Based Education Model Implementation with Microsoft 365 ";2020-11-26 00:00:00,000;"26/11/2020";"HigherEd";"Q2";"43";3;43;0
+2021;"GTP";"Power BI Essentials";2020-12-02 00:00:00,000;"02/12/2020";"HigherEd";"Q2";"19";3;19;0
+2021;"GTP";"Power BI Advanced ";2020-12-03 00:00:00,000;"03/12/2020";"HigherEd";"Q2";"16";3;16;0
+2021;"GTP";"Improving Productivity In Higher Education with Office 365 ";2020-12-08 00:00:00,000;"08/12/2020";"HigherEd";"Q2";"27";3;27;0
+2021;"M365";"Microsoft 365 Administration Workshop ";2020-10-27 00:00:00,000;"27/10/2020";"K-12";"Q2";"3";3;3;0
+2021;"M365";"Microsoft Teams Administration Workshop";2020-11-05 00:00:00,000;"05/11/2020";"K-12";"Q2";"5";3;5;0
+2021;"M365";"Microsoft 365 Identity with Azure Active Directory ";2020-11-09 00:00:00,000;"09/11/2020";"K-12";"Q2";"5";3;5;0
+2021;"M365";"Global Microsoft 365 Developer Bootcamp 2020 ";2020-10-08 00:00:00,000;"08/10/2020";"K-12";"Q2";"58";3;15;43
+2021;"MAU";"Power BI Capabilities and Features ";2020-10-22 00:00:00,000;"22/10/2020";"HigherEd&K-12";"Q2";"1";1;1;0
+2021;"MAU";"Lightweight Directory Access Protocol ";2020-10-27 00:00:00,000;"27/10/2020";"HigherEd&K-12";"Q2";"5";1;5;0
+2021;"MAU";"UI Discussion: Workshop Plan ";2020-10-27 00:00:00,000;"27/10/2020";"HigherEd&K-12";"Q2";"5";1;5;0
+2021;"MAU";"UNPAD Discussion Series: SSO and Azure AD";2020-11-13 00:00:00,000;"13/11/2020";"HigherEd&K-12";"Q2";"3";1;3;0
+2021;"GTP";"Creating An App Solution for Higher Ed Institution with Power Platforms ";2021-03-04 00:00:00,000;"04/03/2021";"HigherEd";"Q3";"65";3;65;0
+2021;"GTP";"Office 365 for Research ";2021-03-04 00:00:00,000;"04/03/2021";"HigherEd";"Q3";"53";3;53;0
+2021;"GTP";"Tracking The Successful of Learning in Higher Ed with Power BI";2021-03-05 00:00:00,000;"05/03/2021";"HigherEd";"Q3";"259";3;259;0
+2021;"GTP";"Creating A Teaching and Learning Scheduling Application in Higher Ed using Power Apps ";2021-03-12 00:00:00,000;"12/03/2021";"HigherEd";"Q3";"261";3;261;0
+2021;"GTP";"UT Series 1: Komunikasi dan Kolaborasi Modern dalam Proyek Penelitian dengan Microsoft Teams ";2021-04-20 00:00:00,000;"20/04/2021";"HigherEd";"Q4";"439";3;439;0
+2021;"GTP";"UT Series 2: Komunikasi dan Kolaborasi Modern dalam Proyek Penelitian dengan Microsoft Teams ";2021-04-23 00:00:00,000;"23/04/2021";"HigherEd";"Q4";"114";3;114;0
+2021;"GTP";"UI Series: Komunikasi dan Kolaborasi Modern dalam Proyek Penelitian dengan Microsoft Teams ";2021-04-30 00:00:00,000;"30/04/2021";"HigherEd";"Q4";"30";3;30;0
+2021;"GTP";"ITB Series: Komunikasi dan Kolaborasi Modern dalam Proyek Penelitian dengan Microsoft Teams ";2021-05-05 00:00:00,000;"05/05/2021";"HigherEd";"Q4";"13";3;13;0
+2021;"MicroCredentials";"ToT Micro-Credentials Offers for Merdeka Belajar: Universitas Indonesia ";2021-03-29 00:00:00,000;"29/03/2021";"HigherEd";"Q3";"31";2;31;0
+2021;"MicroCredentials";"ToT Micro-Credentials Offers for Merdeka Belajar: Universitas Gadjah Mada ";2021-03-30 00:00:00,000;"30/03/2021";"HigherEd";"Q3";"13";2;13;0
+2021;"MicroCredentials";"ToT Micro-Credentials Offers for Merdeka Belajar: Institut Teknologi Sepuluh Nopember";2021-03-31 00:00:00,000;"31/03/2021";"HigherEd";"Q3";"8";2;8;0
+2021;"ShowcaseSchool";"Showcase Schools – Session 1: SMP N 13 Sinjai ";2021-04-20 00:00:00,000;"20/04/2021";"K-12";"Q4";"24";3;24;0
+2021;"ShowcaseSchool";"Showcase Schools – Session 1: SMP N 2 Pangsid";2021-05-25 00:00:00,000;"25/05/2021";"K-12";"Q4";"35";3;35;0
+2021;"ShowcaseSchool";"Showcase Schools – Session 2: SMP N 2 Pangsid";2021-06-02 00:00:00,000;"02/06/2021";"K-12";"Q4";"15";3;15;0
+2021;"ShowcaseSchool";"Showcase Schools – Session 2: SMP N 13 Sinjai ";2021-06-09 00:00:00,000;"09/06/2021";"K-12";"Q4";"20";3;20;0
+2021;"ShowcaseSchool";"Showcase Schools – Session 1: SMA N 1 Banguntapan ";2021-06-08 00:00:00,000;"08/06/2021";"K-12";"Q4";"34";3;34;0
+2021;"ShowcaseSchool";"Showcase Schools – Session 2: SMA N 1 Banguntapan ";2021-06-09 00:00:00,000;"09/06/2021";"K-12";"Q4";"21";3;21;0
